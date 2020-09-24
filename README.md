@@ -5,7 +5,7 @@ Converting the People's Guide to a digital format
 
 Met with Joanne who described the People's Guide: https://c0971773-8bd3-49d2-b4d7-2a0c0b43036d.filesusr.com/ugd/ee52bb_e37a55c3be3e4f0ab70c594ff81228d7.pdf created an maintained by https://www.srceh.org/.  They maintain the data and content in this guide and it is very useful, we can improve the distribution of this valuable content by putting in a digital form.
 
-# 9-23-20
+## 9-23-20
 Investigated an updated version ORServices that includes some management tools.  We may be able to use this: https://openreferral.org/presenting-orservices-3-0-a-complete-laravel-based-open-referral-directory-solution/
 
 # Inital Prototype
